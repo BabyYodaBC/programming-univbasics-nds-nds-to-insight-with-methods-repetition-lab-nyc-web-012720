@@ -35,7 +35,6 @@ def list_of_directors(source)
 end
 
 def total_gross(source)
-  
   directors_totals = directors_totals(source)
   dir = list_of_directors(source) 
   total = 0
